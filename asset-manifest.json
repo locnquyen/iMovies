@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iMovies/static/css/main.bd60301e.css",
+    "main.js": "/iMovies/static/js/main.c17323fe.js",
+    "static/media/footer-bg.jpg": "/iMovies/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/tmovie.png": "/iMovies/static/media/tmovie.67797e942e59deb68592.png",
+    "index.html": "/iMovies/index.html",
+    "main.bd60301e.css.map": "/iMovies/static/css/main.bd60301e.css.map",
+    "main.c17323fe.js.map": "/iMovies/static/js/main.c17323fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd60301e.css",
+    "static/js/main.c17323fe.js"
+  ]
+}
